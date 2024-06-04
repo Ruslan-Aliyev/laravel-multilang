@@ -54,6 +54,7 @@ Tutorials:
 		- https://www.youtube.com/watch?v=KqzGKg8IxE4
 			- https://www.youtube.com/watch?v=CFGjn3yKMNc
 	- https://www.youtube.com/watch?v=xMP_-IbywCU
+	- https://laravel-news.com/html-string-affixer-localization
 
 ---
 
